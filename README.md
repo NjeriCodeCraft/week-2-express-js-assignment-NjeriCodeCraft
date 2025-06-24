@@ -17,7 +17,7 @@ A RESTful API built with Express.js to manage products, including:
 ### 1. Clone the repo
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/NjeriCodeCraft/week-2-express-js-assignment-NjeriCodeCraft.git>
 cd express-app
 
 2. Install dependencies
